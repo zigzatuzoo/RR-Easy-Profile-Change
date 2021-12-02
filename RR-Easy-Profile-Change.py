@@ -24,17 +24,17 @@ BioSlot6 = '''https://Github.com/zigzatuzoo/RR-Easy-Profile-Change
 Have fun!'''
 
 '''PFP slots'''
-PFPSlot1 = 'https://img.rec.net/8d6ec536fd6c4b0a916da855aa6b879b.jpg'
+PFPSlot1 = '8d6ec536fd6c4b0a916da855aa6b879b.jpg'
 
-PFPSlot2 = 'https://img.rec.net/6bb5a2b0e9ba4743b977af117772f4f5.jpg'
+PFPSlot2 = '6bb5a2b0e9ba4743b977af117772f4f5.jpg'
 
-PFPSlot3 = 'https://img.rec.net/f36cec6068994c1180ecbd554b279ada.jpg'
+PFPSlot3 = 'f36cec6068994c1180ecbd554b279ada.jpg'
 
-PFPSlot4 = 'https://img.rec.net/355c2c7e87f0489bb5f0308cdec108f6.jpg'
+PFPSlot4 = '355c2c7e87f0489bb5f0308cdec108f6.jpg'
 
-PFPSlot5 = 'https://img.rec.net/49b2788b672e4088a25eb0a9eff35c17.jpg'
+PFPSlot5 = '49b2788b672e4088a25eb0a9eff35c17.jpg'
 
-PFPSlot6 = 'https://img.rec.net/2d83af05944d49c69fa9565fb238a91b.jpg'
+PFPSlot6 = '2d83af05944d49c69fa9565fb238a91b.jpg'
 
 '''INIT VARS'''
 ah = {}
